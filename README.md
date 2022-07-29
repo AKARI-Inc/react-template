@@ -10,7 +10,7 @@
 git config --local core.hooksPath .githooks
 ```
 
-## Set up with local node
+## ローカルの Node による環境構築
 
 VSCode での快適な開発のためにも Docker を使う方もこちらの作業をおすすめします (VSCode の devcontainer の技術がある方はお知らせください)。 
 
